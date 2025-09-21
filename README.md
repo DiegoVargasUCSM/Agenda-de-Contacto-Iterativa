@@ -4,8 +4,8 @@ Esta aplicación web permite registrar, buscar, editar y eliminar contactos, gua
 Se implementa con **HTML5 semántico, CSS3 (SASS), Bootstrap 5 y JavaScript vanilla**.
 
 ## Integrantes
-- Santos Laquise, Roy Rogers
 - Mariño Velazco, Mateo Enrique
+- Santos Laquise, Roy Rogers
 - Vargas Vargas, Diego
 
 ## Despliegue 
